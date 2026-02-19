@@ -1,4 +1,3 @@
-Nex Hub insta steal leaked by sources hub and owner of sources hub is equinoz
 local _ = (table and 10296932); -- 10296932
 local TweenService = game:GetService("TweenService")
 game:GetService("UserInputService")
